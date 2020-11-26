@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2sub</string>
+    <string name="formTitle">Please Enter Claim Information</string>
+    <string name="inputTitle1">Claim Title</string>
+    <string name="inputTitle2">Date</string>
+    <string name="buttonText">ADD</string>
+    <string name="statusTitle">Status:</string>
+    <string name="statusMsg">NO STATUS RECEIVED</string>
+</resources>
